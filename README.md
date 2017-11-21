@@ -19,11 +19,11 @@ This will reset it back to your default keyboard layout when you reboot. To make
 ## Usage
 
 ```
-(Left) ALT + ' = æ
-       ALT + : = ø
-       ALT + [ = å
-       ALT + SHIFT + ' = Æ
-       ALT + SHIFT + : = Ø
-       ALT + SHIFT + [ = Å
+(Right) ALT + ' = æ
+        ALT + : = ø
+        ALT + [ = å
+        ALT + SHIFT + ' = Æ
+        ALT + SHIFT + : = Ø
+        ALT + SHIFT + [ = Å
 ```
 
